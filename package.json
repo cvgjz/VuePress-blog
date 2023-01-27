@@ -1,0 +1,15 @@
+{
+  "name": "VuePress-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cvgjz/VuePress-blog.git",
+  "author": "cvgjz",
+  "license": "none",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
